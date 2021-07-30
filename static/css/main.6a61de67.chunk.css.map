@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss","Tab.css"],"names":[],"mappings":"AAAA,KACE,yBAAkB,CAAlB,iBAAkB,CAClB,aAAc,CCFhB,KACE,eAAgB,CAChB,YAAa,CACb,aAAS,CAAT,QACF","file":"main.6a61de67.chunk.css","sourcesContent":[".App {\n  width: max-content;\n  margin: 0 auto;\n}\n",".tab {\n  list-style: none;\n  display: flex;\n  gap: 20px;\n}\n"]}
